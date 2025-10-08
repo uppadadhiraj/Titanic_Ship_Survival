@@ -51,7 +51,7 @@ This will create `titanic_report.html` in your working directory, which can be o
 ## Data
 
 The Titanic dataset used includes passenger information such as age, gender, ticket class, and survival status.  
-It is available for download from [Kaggle](https://www.kaggle.com/c/titanic/data).
+It is available for download from [Data](https://github.com/uppadadhiraj/Titanic_Ship_Survival/blob/main/Titanic-Dataset.csv).
 
 ## Results
 
@@ -64,7 +64,3 @@ This project is open-sourced under the MIT License.
 ## Contributing
 
 Contributions and suggestions are welcome! Please open an issue or submit a pull request for improvements.
-
-## Author
-
-[uppadadhiraj](https://github.com/uppadadhiraj)
